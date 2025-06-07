@@ -1,1 +1,1 @@
-# python_life  this is demo project
+# this is demo project
